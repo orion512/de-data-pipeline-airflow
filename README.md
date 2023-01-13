@@ -1,9 +1,9 @@
-# Data Modelling with PostgreSQL
+# Data Pipelines with Airflow
 
 This repository serves as a submission for Udacity data engineer nanodegree.
 
 ## Project Introduction
-A startup called Sparkify wants to analyze the data they've been collecting on songs and user activity on their new music streaming app. The analytics team is particularly interested in understanding what songs users are listening to. Currently, they don't have an easy way to query their data, which resides in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
+A music streaming company, Sparkify, has decided that it is time to introduce more automation and monitoring to their data warehouse ETL pipelines and come to the conclusion that the best tool to achieve this is Apache Airflow.
 
 ## How to Run?
 

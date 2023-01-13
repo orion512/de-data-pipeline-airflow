@@ -19,6 +19,7 @@ class StageToRedshiftOperator(BaseOperator):
 
     def execute(self, context):
         self.log.info('StageToRedshiftOperator not implemented yet')
+        self.log.info(f'My Logical Date is {context["logical_date"]}')
 
 
 

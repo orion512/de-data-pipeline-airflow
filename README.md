@@ -24,6 +24,7 @@ Redshift database.
 **Run airflow with Docker (optional)**
 If you want to setup the airflow environemnt through docker.
 ```
+curl -LfO 'https://airflow.apache.org/docs/apache-airflow/2.5.0/docker-compose.yaml'
 ```
 Then use below commands to setup the container
 ```
